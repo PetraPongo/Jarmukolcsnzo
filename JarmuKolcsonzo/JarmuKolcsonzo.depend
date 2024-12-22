@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1703973357 source:c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\autopark.cpp
+	"Autopark.hpp"
+	"Buszok.hpp"
+	"Teherauto.hpp"
+	"Munkagep.hpp"
+	<algorithm>
+
+1703974478 c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\autopark.hpp
+	"Jarmu.hpp"
+	"Szemelygepkocsi.hpp"
+	"Buszok.hpp"
+	"Teherauto.hpp"
+	"Munkagep.hpp"
+	"Template.hpp"
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+
+1703971049 source:c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\buszok.cpp
+	"Buszok.hpp"
+
+1703974721 c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\buszok.hpp
+	<Jarmu.hpp>
+	<iostream>
+	<string>
+
+1703974849 c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\\jarmu.hpp
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	"Template.hpp"
+
+1703960578 source:c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\jarmu.cpp
+	"Jarmu.hpp"
+
+1703974849 c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\jarmu.hpp
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	"Template.hpp"
+
+1703714338 source:c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\main.cpp
+	<iostream>
+	"Menu.hpp"
+
+1703972468 source:c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\menu.cpp
+	"Menu.hpp"
+
+1703975023 c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\menu.hpp
+	"Autopark.hpp"
+	"Template.hpp"
+	<iostream>
+	<limits>
+
+1703971035 source:c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\munkagep.cpp
+	"Munkagep.hpp"
+
+1703975078 c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\munkagep.hpp
+	<Jarmu.hpp>
+	<iostream>
+	<string>
+
+1703971527 source:c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\szemelygepkocsi.cpp
+	"Szemelygepkocsi.hpp"
+
+1703975084 c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\szemelygepkocsi.hpp
+	<Jarmu.hpp>
+	<iostream>
+	<string>
+
+1703971392 source:c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\teherauto.cpp
+	"Teherauto.hpp"
+
+1703975089 c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\teherauto.hpp
+	<Jarmu.hpp>
+	<iostream>
+	<string>
+
+1703810751 source:c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\ellenorzes.cpp
+	"Ellenorzes.hpp"
+
+1703810837 c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\ellenorzes.hpp
+	<iostream>
+	<string>
+
+1703975131 c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\template.hpp
+	<string>
+	<iostream>
+	<limits>
+
+1703971293 source:c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\template.cpp
+	"Template.hpp"
+
+1703975131 c:\users\peps\documents\eke\eke\c++\jarmukolcsonzo\\template.hpp
+	<string>
+	<iostream>
+	<limits>
+
+1703976512 source:e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\autopark.cpp
+	"Autopark.hpp"
+	"Buszok.hpp"
+	"Teherauto.hpp"
+	"Munkagep.hpp"
+	<algorithm>
+
+1703974478 e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\autopark.hpp
+	"Jarmu.hpp"
+	"Szemelygepkocsi.hpp"
+	"Buszok.hpp"
+	"Teherauto.hpp"
+	"Munkagep.hpp"
+	"Template.hpp"
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+
+1703974849 e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\jarmu.hpp
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	"Template.hpp"
+
+1703975131 e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\template.hpp
+	<string>
+	<iostream>
+	<limits>
+
+1703975084 e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\szemelygepkocsi.hpp
+	<Jarmu.hpp>
+	<iostream>
+	<string>
+
+1703974849 e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\\jarmu.hpp
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	"Template.hpp"
+
+1703975131 e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\\template.hpp
+	<string>
+	<iostream>
+	<limits>
+
+1703974721 e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\buszok.hpp
+	<Jarmu.hpp>
+	<iostream>
+	<string>
+
+1703975089 e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\teherauto.hpp
+	<Jarmu.hpp>
+	<iostream>
+	<string>
+
+1703975078 e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\munkagep.hpp
+	<Jarmu.hpp>
+	<iostream>
+	<string>
+
+1703971049 source:e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\buszok.cpp
+	"Buszok.hpp"
+
+1703960578 source:e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\jarmu.cpp
+	"Jarmu.hpp"
+
+1703976595 source:e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\main.cpp
+	<iostream>
+	"Menu.hpp"
+
+1703975023 e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\menu.hpp
+	"Autopark.hpp"
+	"Template.hpp"
+	<iostream>
+	<limits>
+
+1703976661 source:e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\menu.cpp
+	"Menu.hpp"
+
+1703971035 source:e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\munkagep.cpp
+	"Munkagep.hpp"
+
+1703971527 source:e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\szemelygepkocsi.cpp
+	"Szemelygepkocsi.hpp"
+
+1703971392 source:e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\teherauto.cpp
+	"Teherauto.hpp"
+
+1703971293 source:e:\dokumentumok\eke\eke\c++\jarmukolcsonzo\template.cpp
+	"Template.hpp"
+
